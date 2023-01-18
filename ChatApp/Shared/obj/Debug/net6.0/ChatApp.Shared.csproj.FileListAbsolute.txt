@@ -1,0 +1,12 @@
+C:\Users\t.dinc\Desktop\MVC\Blazor\ChatApp\ChatApp\Shared\bin\Debug\net6.0\ChatApp.Shared.deps.json
+C:\Users\t.dinc\Desktop\MVC\Blazor\ChatApp\ChatApp\Shared\bin\Debug\net6.0\ChatApp.Shared.dll
+C:\Users\t.dinc\Desktop\MVC\Blazor\ChatApp\ChatApp\Shared\bin\Debug\net6.0\ChatApp.Shared.pdb
+C:\Users\t.dinc\Desktop\MVC\Blazor\ChatApp\ChatApp\Shared\obj\Debug\net6.0\ChatApp.Shared.csproj.AssemblyReference.cache
+C:\Users\t.dinc\Desktop\MVC\Blazor\ChatApp\ChatApp\Shared\obj\Debug\net6.0\ChatApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t.dinc\Desktop\MVC\Blazor\ChatApp\ChatApp\Shared\obj\Debug\net6.0\ChatApp.Shared.AssemblyInfoInputs.cache
+C:\Users\t.dinc\Desktop\MVC\Blazor\ChatApp\ChatApp\Shared\obj\Debug\net6.0\ChatApp.Shared.AssemblyInfo.cs
+C:\Users\t.dinc\Desktop\MVC\Blazor\ChatApp\ChatApp\Shared\obj\Debug\net6.0\ChatApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\t.dinc\Desktop\MVC\Blazor\ChatApp\ChatApp\Shared\obj\Debug\net6.0\ChatApp.Shared.dll
+C:\Users\t.dinc\Desktop\MVC\Blazor\ChatApp\ChatApp\Shared\obj\Debug\net6.0\refint\ChatApp.Shared.dll
+C:\Users\t.dinc\Desktop\MVC\Blazor\ChatApp\ChatApp\Shared\obj\Debug\net6.0\ChatApp.Shared.pdb
+C:\Users\t.dinc\Desktop\MVC\Blazor\ChatApp\ChatApp\Shared\obj\Debug\net6.0\ref\ChatApp.Shared.dll
