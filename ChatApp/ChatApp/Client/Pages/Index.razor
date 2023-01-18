@@ -1,0 +1,28 @@
+﻿@page "/"
+@inject NavigationManager NavigationManager
+
+@code {
+    private HubConnection? hubConnection;
+    private string messages = string.Empty;
+    private string username = string.Empty;
+    private string message = string.Empty;
+
+    private async Task Connect()
+    {
+        hubConnection = new HubConnectionBuilder()
+            .WithUrl(NavigationManager.ToAbsoluteUri("/chathub"))
+            .Build();
+
+
+        hubConnection.On<string, string>("GetThatMessageDude", (user, message) =>
+        {
+            var msg = $"{(string.IsNullOrEmpty(user) ? "" : user + ": ")} {message}";
+            message += msg + "/n";
+            StateHasChanged();
+        });
+
+        await hubConnection.StartAsync();
+
+
+    }
+}
